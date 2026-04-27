@@ -24,3 +24,6 @@ Elements are generated and updated dynamically using JavaScript.
 - Handling user input and events (click, hover)
 - Structuring interactive UI components
 - Writing cleaner and more modular JavaScript
+
+🎥 Demo
+![Etch-a-Sketch Demo](https://github.com/TYW02/Etch-a-Sketch/blob/main/Etch-a-Sketch_demo.mp4)
