@@ -27,3 +27,6 @@ Elements are generated and updated dynamically using JavaScript.
 
 🎥 Demo
 ![Etch-a-Sketch Demo](https://github.com/TYW02/Etch-a-Sketch/blob/main/Etch-a-Sketch_demo.mp4)
+
+https://github.com/user-attachments/assets/0eb6febf-b6d9-43a2-b1e8-1b5a7da2debe
+
